@@ -1,0 +1,15 @@
+{
+  "name": "Peer_Node_Module_01",
+  "version": "1.0.0",
+  "description": "Peer_Node_Module_01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Casie and Erik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
